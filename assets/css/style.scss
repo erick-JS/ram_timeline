@@ -124,6 +124,9 @@ img {
     height: 24px;
   }
 
+  footer{
+    width: auto;
+  }
   @include breakpoint(md) {
     width: 60px;
     height: 60px;
