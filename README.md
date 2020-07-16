@@ -4,6 +4,9 @@ Página que será adicionada no centro de memórias da FATEC
 link da página
 https://erick-js.github.io/ram_timeline/
 
+# Imagem do site 
+![](assets/img/timeline.PNG)
+
 # Responsive Vertical Timeline
 
 An easy to customize, responsive timeline.
