@@ -1,0 +1,83 @@
+Trabalho avaliativo de Laboratório de Hardware
+Análise e Desenvolvimento de Sistemas - 2º semestre
+Integrantes
+Alessandro Marcos Heitor
+Erick José da Silva
+Elton de Souza
+Felipe de Paula Spinoso
+Rafael Correa de Melo
+
+Link do repositório: https://github.com/erick-JS/ram_timeline 
+
+Referências bibliográficas
+
+https://www.computerhope.com/history/memory.htm
+https://pt.wikipedia.org/wiki/Maquina_Anal%C3%ADtica
+https://www.facebook.com/historiadacomputacao/posts/1598945016948571/
+http://www.geocities.ws/hifi_eventos/ABCr.html
+https://www.computerhistory.org/revolution/memory-storage/8/308
+https://pt.linkfang.org/wiki/Selectron
+https://www.ime.usp.br/~song/mac344/slides05-memory.pdf
+https://computerhistory.org/profile/jay-w-forrester/#:~:text=Jay%20Forrester%20was%20born%20near,He%20holds%20a%20B.S..&text=While%20leading%20the%20MIT%20Whirlwind,access%20memory%20for%20digital%20computers.
+http://www.horst-zuse.homepage.t-online.de/Konrad_Zuse_index_english_html/rechner_z22.html
+https://www1.folha.uol.com.br/folha/informatica/ult124u6520.shtml
+https://www.facebook.com/historiadacomputacao/posts/541011919408558/
+https://www.fabricainfo.com/artigos/saiba-mais-sobre-historia-do-armazenamento-de-dados/
+https://pt.wikipedia.org/wiki/FRAM
+https://www.britannica.com/technology/ENIAC
+http://trabalhofernando.blogspot.com/2009/03/whirlwind-i-1950-primeiro-computador.html
+https://www.computerhistory.org/revolution/memory-storage/8/253
+https://en.wikipedia.org/wiki/TRADIC
+https://www.tecmundo.com.br/memoria/2181-qual-a-diferenca-entre-memoria-ram-estatica-e-dinamica-.htm
+https://www.britannica.com/biography/Kenneth-Olsen
+https://www.britannica.com/biography/Robert-Dennard
+http://www.bosontreinamentos.com.br/mac-os-x/o-que-e-pram/
+https://www.chipsetc.com/sram-memory.html
+https://en.wikipedia.org/wiki/Intel_1103
+https://chiptronic.com.br/blog/memoria-eprom-saiba-como-ler-e-gravar
+https://www.computer.org/profiles/federico-faggin
+https://portal.vidadesilicio.com.br/memoria-nao-volatil-arduino-eeprom/
+https://en.wikipedia.org/wiki/SIMM#:~:text=A%20SIMM%20
+https://www.tecmundo.com.br/hardware/198-o-que-e-memoria-flash-.htm
+https://www.electronics-notes.com/articles/electronic_components/semiconductor-ic-memory/sdram-synchronous-dram-what-is.php
+https://www.tecmundo.com.br/hardware/1775-o-que-e-ddr-.htm
+https://pt.wikipedia.org/wiki/XDR
+https://www.techtudo.com.br/noticias/2019/03/ddr3-ddr4-e-ddr5-entenda-os-diferentes-padroes-de-memoria-ram.ghtml
+
+Links úteis
+
+https://www.computerhistory.org/timeline/memory-storage/
+https://www.timetoast.com/timelines/history-of-ram
+https://wccftech.com/history-ram-trip-memory-lane/
+https://github.com/erick-JS/ram_timeline
+
+Bibliografia de imagens
+https://commons.wikimedia.org/wiki/File:BabbageDifferenceEngine.jpg
+https://commons.wikimedia.org/wiki/File:Pamiec_bebnowa_1.jpg
+https://commons.wikimedia.org/wiki/File:Atanasoff-Berry_Computer_at_Durhum_Center.jpg
+https://www.fabricainfo.com/wp-content/uploads/2018/02/Williams-Tube.jpg
+https://commons.wikimedia.org/wiki/File:SelectronTube4096bit.jpg
+https://youtu.be/SpqayTc_Gcw
+https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12204438/magnetic.jpg
+https://youtu.be/FtCSNr-jZUk
+https://youtu.be/s7VBoVpKhi4
+https://thesystemsthinker.com/wp-content/uploads/2015/12/forrester-320x0-c-default.jpg
+https://commons.wikimedia.org/wiki/File:Medical_Econet_PalmCare_-_CPU_module_-_Ramtron_FM18L08-70-SG-5631.jpg
+https://youtu.be/dy0wpDfnpzo
+https://commons.wikimedia.org/wiki/File:Zuse_Z22.jpg
+https://commons.wikimedia.org/wiki/File:Museum_of_Science,_Boston,_MA_-_IMG_3168.JPG
+https://4310b1a9-a-11c96037-s-sites.googlegroups.com/a/ricomputermuseum.org/home/Home/interesting_computer_items/magnetic-core-memory/Core_Memory_Plane.jpg?attachauth=ANoY7crTbQQCcSBVjetQDBS1tVbCnOgfleNEhNyofo-6FROhYYdgvZL0iAjrsRqj_fBAze2d6Hp8Az-fxltFXgD3-WjTW5JIFX29OsSny5JnSTQwINsBQUggBqclXbNM39H09X5Y_bd0NBS-oxGp3NSgWWpxoRe4ahS4LLw72x6WwyEBc-nu4XoO26B40z0xrlMPApEVPdMuP6s_9tZCsYapk9B2lP4tlpdyvG4On-DgJrkTVhS-QE6ZqLC6w-lwCiw-qDrXgcqglKOCcPuVhBV3HNSoQ2tDwGoPnC0oLo50MCZ_4XJDHhM%3D&attredirects=0
+https://commons.wikimedia.org/wiki/File:Replica-of-first-transistor.jpg
+https://images.computerhistory.org/siliconengine/1970-1-1.jpg
+https://computerhistory.org/profile/ken-olsen/
+https://commons.wikimedia.org/wiki/File:Robert_Dennard.jpg
+http://www.cpushack.com/wp-content/uploads/2017/06/3101_2.jpg
+https://commons.wikimedia.org/wiki/File:Intel_C1103.jpg
+http://blog.maxieduca.com.br/wp-content/uploads/2017/10/EPROM.jpg
+https://commons.wikimedia.org/wiki/File:Federico_Faggin_(cropped).jpg
+https://commons.wikimedia.org/wiki/File:Pcb-flash.jpg
+https://cdn.digitalks.com.br/wp-content/uploads/2014/08/Samsung-Logo.png
+https://commons.wikimedia.org/wiki/File:Kingston_KVR266X64C25-256_with_Nanya_NT5DS32M8AT-7K.jpg
+https://www.ebay.com/itm/SAMSUNG-1x-512MB-PC800-40-16-bit-ECC-184-pin-RDRAM-RIMM-RAMBUS-MR18R162GAF0-CM8-/283290106691
+https://img.terabyteshop.com.br/produto/g/memoria-ddr3-kingston-4gb-1600mhz-kvr16n114_95216.png
+https://img.terabyteshop.com.br/produto/g/memoria-ddr4-kingston-hyperx-fury-rgb-8gb-3200mhz-black-hx432c16fb3a8_82991.jpg
